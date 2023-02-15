@@ -1,2 +1,5 @@
 hello java!
 hahahahahahaaa
+
+
+select *  from dual;
